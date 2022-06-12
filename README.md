@@ -1,2 +1,3 @@
 # shanky
-# mergesort in python
+# FCFS algorithm operating system
+
